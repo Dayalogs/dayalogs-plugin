@@ -1,0 +1,28 @@
+{
+  "name": "dayalogs",
+  "displayName": "Dayalogs",
+  "version": "1.0.0",
+  "description": "Design surveys, run campaigns, and export responses.",
+  "author": {
+    "name": "Dayalogs"
+  },
+  "homepage": "https://www.dayalogs.com/help/mcp-setup",
+  "repository": "https://github.com/dayalogs/dayalogs-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "dayalogs",
+    "surveys",
+    "questionnaires",
+    "responses",
+    "research",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "dayalogs",
+    "surveys",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

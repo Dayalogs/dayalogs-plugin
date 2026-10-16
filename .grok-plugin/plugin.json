@@ -1,0 +1,14 @@
+{
+  "name": "dayalogs",
+  "version": "1.0.0",
+  "description": "Dayalogs AI-native surveys via the hosted Dayalogs MCP server at www.dayalogs.com/mcp. Design, validate and preview schema-first surveys, manage audiences, links and quotas, run email campaigns, and export responses. Sign in with a Dayalogs account on first connect; no API key needed.",
+  "author": {
+    "name": "Dayalogs",
+    "url": "https://www.dayalogs.com"
+  },
+  "homepage": "https://www.dayalogs.com/help/mcp-setup",
+  "repository": "https://github.com/dayalogs/dayalogs-plugin",
+  "license": "MIT",
+  "keywords": ["dayalogs", "dayalogs surveys", "dayalogs survey", "dayalogs mcp"],
+  "logo": "assets/logo.svg"
+}

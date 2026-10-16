@@ -1,0 +1,11 @@
+{
+  "name": "dayalogs",
+  "owner": { "name": "Dayalogs" },
+  "plugins": [
+    {
+      "name": "dayalogs",
+      "source": "./",
+      "description": "Design, preview and run Dayalogs surveys, campaigns and exports from Claude Code."
+    }
+  ]
+}
